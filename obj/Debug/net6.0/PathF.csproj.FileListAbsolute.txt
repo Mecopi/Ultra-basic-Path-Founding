@@ -1,0 +1,15 @@
+D:\C#\PathF\PathF\bin\Debug\net6.0\PathF.exe
+D:\C#\PathF\PathF\bin\Debug\net6.0\PathF.deps.json
+D:\C#\PathF\PathF\bin\Debug\net6.0\PathF.runtimeconfig.json
+D:\C#\PathF\PathF\bin\Debug\net6.0\PathF.dll
+D:\C#\PathF\PathF\bin\Debug\net6.0\PathF.pdb
+D:\C#\PathF\PathF\obj\Debug\net6.0\PathF.csproj.AssemblyReference.cache
+D:\C#\PathF\PathF\obj\Debug\net6.0\PathF.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PathF\PathF\obj\Debug\net6.0\PathF.AssemblyInfoInputs.cache
+D:\C#\PathF\PathF\obj\Debug\net6.0\PathF.AssemblyInfo.cs
+D:\C#\PathF\PathF\obj\Debug\net6.0\PathF.csproj.CoreCompileInputs.cache
+D:\C#\PathF\PathF\obj\Debug\net6.0\PathF.dll
+D:\C#\PathF\PathF\obj\Debug\net6.0\refint\PathF.dll
+D:\C#\PathF\PathF\obj\Debug\net6.0\PathF.pdb
+D:\C#\PathF\PathF\obj\Debug\net6.0\PathF.genruntimeconfig.cache
+D:\C#\PathF\PathF\obj\Debug\net6.0\ref\PathF.dll
